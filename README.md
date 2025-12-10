@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBensyBen
 - 👀 I’m interested in Game & Software Development, C++, C#, JavaScript & Coding in general.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Game Design & Development in college
+- 💞️ I’m looking to collaborate on future game projects.
 - 📫 How to reach me: Twitter - @MrBensyBen
 
 <!---
